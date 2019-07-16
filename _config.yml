@@ -1,9 +1,8 @@
 # Site settings 配置站点
-title: 'WongHoyu personal blog'
-description: '黄浩宇个人博客,可能会有个人生活,工作中学习到的知识'
-keywords: 'Life,Knowledge'
-url: 'http://wonghoyu.github.io'
-github_repo: "https://github.com/wonghoyu/wonghoyu.github.io.git"
+title: 'your awesome title'
+description: 'your web description'
+keywords: 'your web keywords, another keywords'
+url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -15,16 +14,16 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'Wong Hoyu'
-#NickName: 'your awesome nickname'
-webtitle: 'https://github.com/WongHoyu'
+name: 'your awesome name'
+NickName: 'your awesome nickname'
+webtitle: 'your awesome webtitle'
 bio: 'your awesome bio'
 about: true
-aboutyou: '一个还没有秃头的菜鸟程序员'
+aboutyou: 'your introduction'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
-SNS: false
+SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:abc@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
@@ -42,12 +41,12 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   twitch: ''
 
 # 分页
-paginate: 5
+paginate: 2
 paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2019
+  since: 2018
 
 # Markdown
 markdown: kramdown
