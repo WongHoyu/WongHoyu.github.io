@@ -2,7 +2,7 @@
 title: 'WongHoyu's blog'
 description: '黄浩宇个人博客,可能会有个人生活,工作中学习到的知识'
 keywords: 'Life,Knowledge'
-url: 'https://www.wonghoyu.com' # your host
+url: https://www.wonghoyu.com'
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
