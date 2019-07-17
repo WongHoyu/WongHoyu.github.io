@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Document - Writing Posts
+title: 日记 - 2019-07-17
 mathjax: true
 ---
 # 我的第一篇博客
