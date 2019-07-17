@@ -1,7 +1,9 @@
 ---
-layout: article
-title: Life - 2019-07-17
+title: 日志 - 2019-07-17
 mathjax: true
+key: 20190717
+tags:
+- 日志
 ---
 # 我的第一篇博客
 
