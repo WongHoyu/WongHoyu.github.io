@@ -2,153 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047d80fb-ae06-4748-8cda-9030228a23b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_config.dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/authors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/licenses.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/locale.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/navigation.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/variables.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/1.1-quick-start.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/1.2-structure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/1.7-update-from-1-to-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/2.1-configuration.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/2.2-navigation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/2.3-layouts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/2.4-logo-and-favicon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/2.5-authors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/2.7-i18n.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/3.1-writing-posts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/3.2-markdown-enhancements.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/3.3-additional-styles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/3.4-extensions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.1-spacing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.2-grid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.3-icons.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.4-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.5-button.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.6-item.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.7-card.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.8-hero.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/en/4.9-swiper.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/1.1-quick-start.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/1.7-update-from-1-to-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/2.1-configuration.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/2.2-navigation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/2.3-layouts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/2.4-logo-and-favicon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/2.5-authors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/2.7-i18n.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/3.1-writing-posts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/3.2-markdown-enhancements.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/3.3-additional-styles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_docs/zh/3.4-extensions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/article/footer/custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/main/bottom/custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2015-01-01-article-with-long-toc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2015-01-03-article-with-lots-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2015-01-06-punctuation-characters'.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2015-02-02-very-long-title.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-05-02-horizontal-rules.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-05-04-footnote.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-05-05-definition.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-05-08-blockquotes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-06-06-lists.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-06-10-tables.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-06-16-code-blocks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-07-07-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-09-01-links.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-09-09-emphasis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-09-19-headers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-10-10-paragraphs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-04-15-author.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-04-19-modify-date.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-05-05-chart.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-06-06-mermaid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-07-07-mathjax.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-08-02-extensions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-08-08-additional-styles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/1.1-brief.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/1.2-brief-info.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/2.1-item-excerpt-readmore-info.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/2.2-item-cover.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/2.3-item-cover-excerpt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/2.4-item-cover-excerpt-readmore.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/2.5-item-cover-excerpt-readmore-info.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/3.1-grid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_articles/3.2-grid-small.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_languages/1-english.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_languages/2-chinese-simplified.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_languages/3-chinese-traditional.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_languages/4-korean.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/1.1-single.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/1.2-aside.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/1.3-sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/1.4-sidebar+asdie.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/2.1-article-header-overlay-background-fill.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/2.2-article-header-overlay-background-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/2.5-article-header-cover-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/2.7-article-header-overlay-background-image-header-background.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/2.8-article-header-cover-image-header-background.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/3.1-article-header-overlay-background-fill-immersive-translucent-header.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/3.2-article-header-overlay-background-image-immersive-translucent-header.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sample_page/3.5-article-header-cover-image-immersive-translucent-header.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-brief-info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-brief.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-grid-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-grid.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-item-cover-excerpt-readmore-info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-item-cover-excerpt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-item-cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/articles-item-excerpt-readmore-info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-cover-image-header-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-cover-image-immersive-translucent-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-cover-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-overlay-background-fill-immersive-translucent-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-overlay-background-fill.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-overlay-background-image-header-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-article-header-overlay-background-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-aside.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-sidebar-aside.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-sidebar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/axure/page-single.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/cover1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/cover2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/cover3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/cover4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/docker.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-bilibili.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-codepen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-netease-cloud-music.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-slideshare.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-soundclound.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-ted.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-youtube.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/github-fork.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/github-rename-repo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/languages/lang-en.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/languages/lang-image-zh-hans.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/languages/lang-image-zh-hant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/languages/lang-ko.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/languages/lang-zh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-app-info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-authorization.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-create-class-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-create-class-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-path.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-result.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-select-favicon-picture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/tip_alipay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/tip_paypal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/tip_wechat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/landing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/samples.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,45 +25,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-129">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-17-First-Blog.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile.dev">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -224,13 +39,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archive.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="148" column="30" lean-forward="true" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/article.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/articles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="75" column="62" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="172" column="55" lean-forward="true" selection-start-line="172" selection-start-column="55" selection-end-line="172" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics-providers/google.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics-providers/custom.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -291,6 +152,17 @@
             <path>
               <item name="WongHoyu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="WongHoyu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WongHoyu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WongHoyu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="analytics-providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WongHoyu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WongHoyu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,12 +217,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563334946540</updated>
       <workItem from="1563334950047" duration="41000" />
-      <workItem from="1563335329553" duration="6533000" />
+      <workItem from="1563335329553" duration="7704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6574000" />
+    <option name="totallyTimeSpent" value="7745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1591" y="6" width="1393" height="877" extended-state="0" />
@@ -457,13 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -516,16 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-17-First-Blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -539,14 +394,6 @@
     <entry file="file://$PROJECT_DIR$/Dockerfile.dev">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-562" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_config.dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-998" />
@@ -557,10 +404,62 @@
         <state relative-caret-position="-331" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-562" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/article.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="62" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="148" column="30" lean-forward="true" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
+        <state relative-caret-position="513">
+          <caret line="172" column="55" lean-forward="true" selection-start-line="172" selection-start-column="55" selection-end-line="172" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics-providers/custom.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics-providers/google.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
