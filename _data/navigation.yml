@@ -14,7 +14,7 @@ header:
       zh-HK: *ZH_HANT
       ko: &KO      메인화면
       ko-KR: *KO
-      url: /index.html
+      url: /
 
   - titles:
       en: &EN       Archive
