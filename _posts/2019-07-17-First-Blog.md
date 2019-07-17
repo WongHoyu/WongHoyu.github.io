@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 日记 - 2019-07-17
+title: Life - 2019-07-17
 mathjax: true
 ---
 # 我的第一篇博客
