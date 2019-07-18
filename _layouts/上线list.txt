@@ -1,0 +1,6 @@
+1. 数据库   -> 已经有了
+2. MQ      -> **加一个MQ命令点**
+3. 上线分支 -> supplierStandard
+4. conf    -> 配置好了
+5. 上线模块 -> 后端: management、schemas、rpconf、lta-phplib | 前端: (卓娜负责)
+6. 1. rpconf 2. schemas 3. phplib 4. management
