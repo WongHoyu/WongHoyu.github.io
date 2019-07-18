@@ -1,7 +1,7 @@
 ---
 title: 日志 - 2019-07-17
 mathjax: true
-key: 20190717
+key: 20190717daily
 tags:
 - 日志
 ---
