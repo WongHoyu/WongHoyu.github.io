@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47497867-2e44-491d-bd05-7d12231bee91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019-07-19-Linux-cat" beforeDir="false" afterPath="$PROJECT_DIR$/2019-07-19-Linux-cat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-07-19-Linux-cat.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019-07-19-Linux-cat.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +25,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019-07-18-Blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
                 <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019-07-19-Linux-cat.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,6 +72,7 @@
         <option value="$PROJECT_DIR$/2019-07-17-Linux-cp.md" />
         <option value="$PROJECT_DIR$/2019-07-18-Linux-touch.md" />
         <option value="$PROJECT_DIR$/2019-07-18-Blog.md" />
+        <option value="$PROJECT_DIR$/2019-07-19-Linux-cat.md" />
       </list>
     </option>
   </component>
@@ -67,8 +80,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1734" />
-    <option name="y" value="-12" />
+    <option name="x" value="1647" />
+    <option name="y" value="-30" />
     <option name="width" value="1398" />
     <option name="height" value="877" />
   </component>
@@ -127,16 +140,18 @@
       <updated>1563456714802</updated>
       <workItem from="1563456716572" duration="1724000" />
       <workItem from="1563504187362" duration="14000" />
+      <workItem from="1563504289186" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1738000" />
+    <option name="totallyTimeSpent" value="1810000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1734" y="-12" width="1398" height="877" extended-state="0" />
+    <frame x="1647" y="-30" width="1398" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17109145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09439528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -161,16 +176,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019-07-18-Linux-touch.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019-07-17-Linux-cp.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -186,6 +191,26 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-07-18-Linux-touch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-07-19-Linux-cat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
