@@ -1,7 +1,7 @@
 ---
 title: 每日一Linux命令 - touch
 mathjax: true
-key: 20190717touch
+key: 20190718touch
 tags:
 - Linux
 ---
