@@ -1,0 +1,45 @@
+---
+title: 每日一Linux命令 - cat
+mathjax: true
+key: 20190719cat
+tags:
+- Linux
+---
+### 所有参数
+用法：cat [选项]... [文件]...
+将[文件]或标准输入组合输出到标准输出。
+
+  -A, --show-all           等于-vET
+  -b, --number-nonblank    对非空输出行编号
+  -e                       等于-vE
+  -E, --show-ends          在每行结束处显示"$"
+  -n, --number             对输出的所有行编号
+  -s, --squeeze-blank      不输出多行空行
+  -t                       与-vT 等价
+  -T, --show-tabs          将跳格字符显示为^I
+  -u                       (被忽略)
+  -v, --show-nonprinting   使用^ 和M- 引用，除了LFD和 TAB 之外
+      --help		显示此帮助信息并退出
+      --version		显示版本信息并退出
+
+### 常用参数
+#### 1. 不带参数
+输出文件内容
+```
+cat log123.log
+```
+#### 2. -b / -n
+-b 将非空行加上行编号输出 / -n 对所有行加上行编号输出
+```
+cat -b log123.log
+```
+#### 3. > / >>
+> 将文件xxx的内容覆盖yyy / >> 将文件xxx的内容追加到yyy后面
+```
+cat log123.log > logyyy.log
+```
+#### 4. tac 命令
+cat 的反向命令,将文件xxx从最后一行往上输出(与cat相反)
+```
+tac log123.log
+```
