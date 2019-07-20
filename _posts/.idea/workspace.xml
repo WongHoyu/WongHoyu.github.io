@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47497867-2e44-491d-bd05-7d12231bee91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-07-19-Blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019-07-19-Blog.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/2019-07-19-Blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,18 +154,18 @@
       <workItem from="1563456716572" duration="1724000" />
       <workItem from="1563504187362" duration="14000" />
       <workItem from="1563504289186" duration="635000" />
-      <workItem from="1563589119733" duration="243000" />
+      <workItem from="1563589119733" duration="392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2616000" />
+    <option name="totallyTimeSpent" value="2765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1647" y="-30" width="1398" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19026549" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2079646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,8 +236,8 @@
     <entry file="file://$PROJECT_DIR$/2019-07-19-Blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
