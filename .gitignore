@@ -1,3 +1,42 @@
 _site
 .sass-cache
 .jekyll-metadata
+# phpstrom
+.idea/
+
+# vim
+# swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+
+# eclipse
+.metadata
+.buildpath
+.project
+.settings/
+
+# mac
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# linux
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# odp
+output/
+
